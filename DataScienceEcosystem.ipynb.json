@@ -1,0 +1,111 @@
+{
+  "metadata": {
+    "kernelspec": {
+      "name": "python",
+      "display_name": "Python (Pyodide)",
+      "language": "python"
+    },
+    "language_info": {
+      "codemirror_mode": {
+        "name": "python",
+        "version": 3
+      },
+      "file_extension": ".py",
+      "mimetype": "text/x-python",
+      "name": "python",
+      "nbconvert_exporter": "python",
+      "pygments_lexer": "ipython3",
+      "version": "3.8"
+    }
+  },
+  "nbformat_minor": 5,
+  "nbformat": 4,
+  "cells": [
+    {
+      "id": "f27a2166-e03f-4e8b-b5e4-6a2beda25e4e",
+      "cell_type": "markdown",
+      "source": "# Data Science Tools and Ecosystem",
+      "metadata": {}
+    },
+    {
+      "id": "097a32ec-c18b-4892-b76b-6550246cc3ce",
+      "cell_type": "markdown",
+      "source": "In this notebook, data science tools and ecosystem are sumarized",
+      "metadata": {}
+    },
+    {
+      "id": "171802e2-8c9a-41af-9c70-c10914682dd0",
+      "cell_type": "markdown",
+      "source": "**objectives:**\n* List popular languages and libraries for Data Science\n* List commonly used tools in data science\n* Test python code cells",
+      "metadata": {}
+    },
+    {
+      "id": "e314654f-9911-4dda-9c24-1dd5386b66f8",
+      "cell_type": "markdown",
+      "source": "Some of the popular languages that data scientists use are:\n1. Python\n2. R\n3. Julia",
+      "metadata": {}
+    },
+    {
+      "id": "b8c0cef5-8193-4d4f-a7a6-da72798d07ea",
+      "cell_type": "markdown",
+      "source": "Some of the commonly used libraries used by Data Scientists include:\n1. NumPy\n2. Pandas\n3. Matplotlib\n4. Tensorflow",
+      "metadata": {}
+    },
+    {
+      "id": "5ab562a9-0f35-4198-915d-085b72b8da6a",
+      "cell_type": "markdown",
+      "source": "| Data Science Tools |\n|------------------|\n| Jupyter notebook |\n| VSCode |\n| RStudio |",
+      "metadata": {}
+    },
+    {
+      "id": "8798abef-764f-4f8a-b9a8-6021fe7caced",
+      "cell_type": "markdown",
+      "source": "### Below are a few examples of evaluating arithmetic expressions in Python",
+      "metadata": {}
+    },
+    {
+      "id": "8b7c86bc-cadf-42ac-9526-b590349a84c1",
+      "cell_type": "code",
+      "source": "#This a simple arithmetic expression to mutiply then add integers\n(3*4)+5",
+      "metadata": {
+        "trusted": true
+      },
+      "outputs": [
+        {
+          "execution_count": 3,
+          "output_type": "execute_result",
+          "data": {
+            "text/plain": "17"
+          },
+          "metadata": {}
+        }
+      ],
+      "execution_count": 3
+    },
+    {
+      "id": "72269266-9deb-4eb9-a22e-b356aa537121",
+      "cell_type": "code",
+      "source": "#This will convert 200 minutes to hours by diving by 60\n200/60",
+      "metadata": {
+        "trusted": true
+      },
+      "outputs": [
+        {
+          "execution_count": 4,
+          "output_type": "execute_result",
+          "data": {
+            "text/plain": "3.3333333333333335"
+          },
+          "metadata": {}
+        }
+      ],
+      "execution_count": 4
+    },
+    {
+      "id": "cd6587a1-9fc9-4c52-aa42-1c65d8a4efca",
+      "cell_type": "markdown",
+      "source": "## Author\nEnrique Lopez del Val",
+      "metadata": {}
+    }
+  ]
+}
